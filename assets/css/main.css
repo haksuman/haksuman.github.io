@@ -4241,6 +4241,7 @@ input, select, textarea {
 					-webkit-align-items: center;
 					-ms-align-items: center;
 					align-items: center;
+					text-align: center;
 					padding: 3.15rem 4rem;
 				}
 
