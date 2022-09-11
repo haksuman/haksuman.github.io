@@ -4240,8 +4240,7 @@ input, select, textarea {
 					-moz-align-items: center;
 					-webkit-align-items: center;
 					-ms-align-items: center;
-					align-items: center;
-					text-align: center;
+					align-items: left;
 					padding: 3.15rem 4rem;
 				}
 
