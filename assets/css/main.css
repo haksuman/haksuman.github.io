@@ -2650,8 +2650,10 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 4rem 0;
-			width: 100%;
+			margin: 5rem 35%;
+			width: 30%;
+			height: 30%;
+			
 		}
 
 			.image.main:first-child {
@@ -2706,8 +2708,8 @@ input, select, textarea {
 	}
 
 		ul.actions li {
-			padding: 0 0 0 1rem;
-			vertical-align: middle;
+			padding: 0 0 0 2rem;
+			vertical-align: bottom;
 		}
 
 		ul.actions.special {
@@ -2722,7 +2724,7 @@ input, select, textarea {
 
 			ul.actions.special li:first-child {
 				padding-left: 0;
-
+				vertical-align: sub;
 			}
 
 		ul.actions.stacked {
