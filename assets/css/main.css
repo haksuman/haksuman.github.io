@@ -4689,6 +4689,16 @@ input, select, textarea {
 
 		}
 
+	
+	article.project_box{
+		position: relative;
+	}
+	ul.project_button{
+		bottom: 0;
+		color: red;
+	}
+
+
 	@media screen and (max-width: 980px) {
 
 		body.is-navPanel-visible #wrapper {
