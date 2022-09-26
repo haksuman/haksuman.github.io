@@ -31,3 +31,7 @@
 			transform: none;
 			opacity: 1;
 		}
+.project_button {
+	position: relative;
+	top: 10%;
+}
