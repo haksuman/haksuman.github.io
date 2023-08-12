@@ -38,5 +38,7 @@
 }
 a.project_img{
 	width: auto;
-
+}
+img.project_img{
+	width: 100%;
 }
